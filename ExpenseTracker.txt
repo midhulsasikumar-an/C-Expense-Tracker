@@ -1,0 +1,4 @@
+Veggies 220.00
+Chicken 230.00
+Eggs 120.00
+Milk 60.00
