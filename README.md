@@ -36,7 +36,7 @@ git clone https://github.com/midhulsasikumar-an/C-Expense-Tracker.git
 
 Navigate to the project folder:
 
-cd c-programming/ExpenseTracker
+cd C-Expense-Tracker
 
 
 Compile the program:
@@ -46,7 +46,8 @@ gcc ExpenseTracker.c -o ExpenseTracker
 
 Run the program:
 
-./ExpenseTracker
+./ExpenseTracker   # Linux/Mac
+ExpenseTracker.exe # Windows
 
 Usage
 
