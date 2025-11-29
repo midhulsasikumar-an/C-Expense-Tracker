@@ -31,7 +31,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/midhulsasikumar-an/c-programming.git
+git clone https://github.com/midhulsasikumar-an/C-Expense-Tracker.git
 
 
 Navigate to the project folder:
